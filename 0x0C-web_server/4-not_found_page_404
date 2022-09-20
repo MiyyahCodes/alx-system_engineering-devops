@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install Nginx
+# Install Nginx, redirect and 404
 
 sudo apt update -y
 sudo apt upgrade -y
